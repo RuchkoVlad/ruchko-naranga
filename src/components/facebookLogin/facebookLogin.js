@@ -55,6 +55,7 @@ export default class FacebookLogin extends Component{
                     autoLoad={true}
                     style={{margin: '30px'}}
                     isMobile={true}
+                    disableMobileRedirect={true}
                     fields="name,email,picture"
                     onClick={this.componentClicked}
                     callback={this.responseFacebook} />
