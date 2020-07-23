@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aa9573b81922f45961448f58a6b784d",
+    "revision": "a8d8a9b7e5ef4a5dc22b68746e017e5f",
     "url": "/ruchko-naranga/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ruchko-naranga/static/js/2.65a09d2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c08ebcf4f4352f40fc53",
-    "url": "/ruchko-naranga/static/js/main.bcb57b2a.chunk.js"
+    "revision": "6c4ff9a67be52ca65fcb",
+    "url": "/ruchko-naranga/static/js/main.f6a706a0.chunk.js"
   },
   {
     "revision": "036b4e437547d3c477a7",
