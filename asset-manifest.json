@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ruchko-naranga/static/js/main.2807b695.chunk.js",
+    "main.js.map": "/ruchko-naranga/static/js/main.2807b695.chunk.js.map",
+    "runtime-main.js": "/ruchko-naranga/static/js/runtime-main.5cd3744d.js",
+    "runtime-main.js.map": "/ruchko-naranga/static/js/runtime-main.5cd3744d.js.map",
+    "static/css/2.fab5e3fc.chunk.css": "/ruchko-naranga/static/css/2.fab5e3fc.chunk.css",
+    "static/js/2.052806ba.chunk.js": "/ruchko-naranga/static/js/2.052806ba.chunk.js",
+    "static/js/2.052806ba.chunk.js.map": "/ruchko-naranga/static/js/2.052806ba.chunk.js.map",
+    "index.html": "/ruchko-naranga/index.html",
+    "precache-manifest.6cfb47ef377d3c1facf30d1cf2da7185.js": "/ruchko-naranga/precache-manifest.6cfb47ef377d3c1facf30d1cf2da7185.js",
+    "service-worker.js": "/ruchko-naranga/service-worker.js",
+    "static/css/2.fab5e3fc.chunk.css.map": "/ruchko-naranga/static/css/2.fab5e3fc.chunk.css.map",
+    "static/js/2.052806ba.chunk.js.LICENSE.txt": "/ruchko-naranga/static/js/2.052806ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cd3744d.js",
+    "static/css/2.fab5e3fc.chunk.css",
+    "static/js/2.052806ba.chunk.js",
+    "static/js/main.2807b695.chunk.js"
+  ]
+}
