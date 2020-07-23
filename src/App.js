@@ -8,7 +8,7 @@ const App = () => (
         <Router>
             <Switch>
                 <Route path="/" component={PersonContainer} exact/>
-                <Route component={PageNotFound}/>
+                {/*<Route component={PageNotFound}/>*/}
             </Switch>
         </Router>
     </div>
