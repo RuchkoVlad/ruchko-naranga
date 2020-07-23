@@ -7,8 +7,8 @@ const App = () => (
     <div style={{background: 'gray', padding: '50px'}}>
         <Router>
             <Switch>
-                <Route  component={PersonContainer} />
-                {/*<Route component={PageNotFound}/>*/}
+                <Route path="/ruchko-naranga" component={PersonContainer} exact/>
+                <Route component={PageNotFound}/>
             </Switch>
         </Router>
     </div>

@@ -12,7 +12,7 @@ export default class SwapiService {
     }
 
     async getAllPeople() {
-        const res = await this.getResource('https://swapi.dev/api/people');
+        const res = await this.getResource('https://swapi.dev/api/people/');
         return res.results;
     }
 }
