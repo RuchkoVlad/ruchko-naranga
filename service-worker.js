@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ruchko-naranga/precache-manifest.1d33b185c45aad4e2a4d11cc9cee2bfa.js"
+  "/ruchko-naranga/precache-manifest.ee485a6e8410275995861420ea909bda.js"
 );
 
 self.addEventListener('message', (event) => {

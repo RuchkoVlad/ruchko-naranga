@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/ruchko-naranga/static/js/main.f6a706a0.chunk.js",
-    "main.js.map": "/ruchko-naranga/static/js/main.f6a706a0.chunk.js.map",
+    "main.js": "/ruchko-naranga/static/js/main.59693aaa.chunk.js",
+    "main.js.map": "/ruchko-naranga/static/js/main.59693aaa.chunk.js.map",
     "runtime-main.js": "/ruchko-naranga/static/js/runtime-main.5cd3744d.js",
     "runtime-main.js.map": "/ruchko-naranga/static/js/runtime-main.5cd3744d.js.map",
     "static/css/2.fab5e3fc.chunk.css": "/ruchko-naranga/static/css/2.fab5e3fc.chunk.css",
     "static/js/2.65a09d2f.chunk.js": "/ruchko-naranga/static/js/2.65a09d2f.chunk.js",
     "static/js/2.65a09d2f.chunk.js.map": "/ruchko-naranga/static/js/2.65a09d2f.chunk.js.map",
     "index.html": "/ruchko-naranga/index.html",
-    "precache-manifest.1d33b185c45aad4e2a4d11cc9cee2bfa.js": "/ruchko-naranga/precache-manifest.1d33b185c45aad4e2a4d11cc9cee2bfa.js",
+    "precache-manifest.ee485a6e8410275995861420ea909bda.js": "/ruchko-naranga/precache-manifest.ee485a6e8410275995861420ea909bda.js",
     "service-worker.js": "/ruchko-naranga/service-worker.js",
     "static/css/2.fab5e3fc.chunk.css.map": "/ruchko-naranga/static/css/2.fab5e3fc.chunk.css.map",
     "static/js/2.65a09d2f.chunk.js.LICENSE.txt": "/ruchko-naranga/static/js/2.65a09d2f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5cd3744d.js",
     "static/css/2.fab5e3fc.chunk.css",
     "static/js/2.65a09d2f.chunk.js",
-    "static/js/main.f6a706a0.chunk.js"
+    "static/js/main.59693aaa.chunk.js"
   ]
 }
