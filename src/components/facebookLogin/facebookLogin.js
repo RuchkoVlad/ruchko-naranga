@@ -3,6 +3,7 @@ import FacebookLoginBtn from "react-facebook-login";
 import {Card} from "antd";
 import {Meta} from "antd/es/list/Item";
 import {Avatar} from "antd";
+import {Button} from "antd";
 
 export default class FacebookLogin extends Component{
     state = {
@@ -11,6 +12,13 @@ export default class FacebookLogin extends Component{
         picture: '',
         email: ''
     }
+
+    logOut = ()=>{
+        this.setState({
+            auth: false,
+        })
+    }
+
 
     responseFacebook = (response) => {
         console.log(response);
@@ -34,6 +42,11 @@ export default class FacebookLogin extends Component{
                         title={this.state.name}
                         description={this.state.email}
                     />
+                    <Button style={{margin: '25px 75px 0'}}
+                        danger
+                        onClick={this.logOut}>
+                        Log Out
+                    </Button>
                 </Card>
             ) :
             facebookData = (
