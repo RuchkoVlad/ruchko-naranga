@@ -10,7 +10,8 @@ export default class FacebookLogin extends Component{
         auth: false,
         name: '',
         picture: '',
-        email: ''
+        email: '',
+        isMobile: true
     }
 
     logOut = ()=>{
@@ -26,7 +27,8 @@ export default class FacebookLogin extends Component{
             auth: true,
             name: response.name,
             picture: response.picture.data.url,
-            email: response.email
+            email: response.email,
+            isMobile: true
         })
     }
 
